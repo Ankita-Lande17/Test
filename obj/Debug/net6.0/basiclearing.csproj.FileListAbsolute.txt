@@ -1,0 +1,15 @@
+F:\tutorials\basiclearing\bin\Debug\net6.0\basiclearing.exe
+F:\tutorials\basiclearing\bin\Debug\net6.0\basiclearing.deps.json
+F:\tutorials\basiclearing\bin\Debug\net6.0\basiclearing.runtimeconfig.json
+F:\tutorials\basiclearing\bin\Debug\net6.0\basiclearing.dll
+F:\tutorials\basiclearing\bin\Debug\net6.0\ref\basiclearing.dll
+F:\tutorials\basiclearing\bin\Debug\net6.0\basiclearing.pdb
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.csproj.AssemblyReference.cache
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.GeneratedMSBuildEditorConfig.editorconfig
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.AssemblyInfoInputs.cache
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.AssemblyInfo.cs
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.csproj.CoreCompileInputs.cache
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.dll
+F:\tutorials\basiclearing\obj\Debug\net6.0\ref\basiclearing.dll
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.pdb
+F:\tutorials\basiclearing\obj\Debug\net6.0\basiclearing.genruntimeconfig.cache
